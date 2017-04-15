@@ -7,7 +7,7 @@ Tool for modding agario mobile
 4/14/17 - Release 0.2 
 
 * [Instructions](https://github.com/AgarTbg/AgarioModTool/blob/master/Tutorial.md)
-* [Skin Mod Tool for PC](http://adf.ly/1mEY7T) - Used to generate RSS Feeds
+* [Skin Mod Tool for PC](http://adf.ly/1mEcwK) - Used to generate RSS Feeds
 * [Private Server 6](http://adf.ly/1mEYLY) - By Sehpawn/Sneddy
 * [Agario 1.6.1 TBGmod](http://adf.ly/1mEY7T) - Moddable Stock Agario 1.6.1 apk
 
