@@ -26,5 +26,6 @@ Tool for modding agario mobile
 * Skin Editor gui
 * Auto Updater
 * Skin Pack Installer
+* Google logins without root (fingers crossed)
 
 
