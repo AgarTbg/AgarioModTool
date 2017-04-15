@@ -3,5 +3,4 @@
 
 [Sneddy Skinpack 1](http://j.gs/8xqe)
 
-message me on instagram if you would like to have your skinpack added to the list
-@agartbg
+Send skin submissions to agarmodtool@gmail.com if sending a single skin please upload to a website like [Imgur](http://imgur.com/) and send me the link.
