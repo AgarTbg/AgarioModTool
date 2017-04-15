@@ -12,6 +12,7 @@ Tool for modding agario mobile
 * [Skin Mod Tool for PC](http://adf.ly/1mEcwK)
 * [Private Server 6](http://adf.ly/1mEYLY) - By Sehpawn/Sneddy
 * [Agario 1.6.1 TBGmod](http://adf.ly/1mEY7T) - Moddable Stock Agario 1.6.1 apk
+* [Skin Packs](https://github.com/AgarTbg/AgarioModTool/blob/master/Skins.md)
 
 
 
